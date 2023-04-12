@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@tomtom-international/web-sdk-maps": "^6.23.0",
+    "@tomtom-international/web-sdk-plugin-drawingtools": "^1.1.5",
+    "@tomtom-international/web-sdk-plugin-minimap": "^2.1.6",
+    "@tomtom-international/web-sdk-plugin-pancontrols": "^2.1.6",
+    "@tomtom-international/web-sdk-plugin-searchbox": "^3.2.0",
+    "@tomtom-international/web-sdk-plugin-zoomcontrols": "^2.1.6",
+    "@tomtom-international/web-sdk-services": "^6.23.0",
+    "leaflet": "^1.9.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-leaflet": "^4.2.1"
+  },
+  "devDependencies": {
+    "@types/leaflet": "^1.9.3"
+  }
+}
